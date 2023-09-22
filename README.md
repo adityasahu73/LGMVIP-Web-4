@@ -6,6 +6,6 @@
   CREATE A CALCULATOR,
 <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-<a href="https://adityasahu73.github.io/LGMVIP-Web-4/"><strong>➥ Live Demo</strong></a>
+<a href="https://lgmvip-web-4-calculator.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
